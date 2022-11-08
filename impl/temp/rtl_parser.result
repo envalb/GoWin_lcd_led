@@ -1,0 +1,54 @@
+[
+ {
+  "InstFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/TOP.v",
+  "InstLine" : 1,
+  "InstName" : "TOP",
+  "ModuleFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/TOP.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "TOP",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/TOP.v",
+    "InstLine" : 38,
+    "InstName" : "chip_pll",
+    "ModuleFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/TOP.v",
+    "InstLine" : 46,
+    "InstName" : "D1",
+    "ModuleFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/VGAMod.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "VGAMod"
+   }
+  ]
+ },
+ {
+  "InstFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/gowin_osc/gowin_osc.v",
+  "InstLine" : 8,
+  "InstName" : "Gowin_OSC",
+  "ModuleFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/gowin_osc/gowin_osc.v",
+  "ModuleLine" : 8,
+  "ModuleName" : "Gowin_OSC"
+ },
+ {
+  "InstFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/sdram_controller_hs/sdram_controller_hs.v",
+  "InstLine" : 1373,
+  "InstName" : "SDRAM_Controller_HS_Top",
+  "ModuleFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/sdram_controller_hs/sdram_controller_hs.v",
+  "ModuleLine" : 1373,
+  "ModuleName" : "SDRAM_Controller_HS_Top",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/sdram_controller_hs/sdram_controller_hs.v",
+    "InstLine" : 1623,
+    "InstName" : "u_sdrc_hs_top",
+    "ModuleFile" : "D:/Repository/FPGA/GoWin/lcd_led/src/sdram_controller_hs/sdram_controller_hs.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "~sdrc_hs_top.SDRAM_Controller_HS_Top"
+   }
+  ]
+ }
+]

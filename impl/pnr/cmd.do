@@ -1,0 +1,11 @@
+-d D:\Repository\FPGA\GoWin\lcd_led\impl\gwsynthesis\Tang_nano_9K_LCD.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst D:\Repository\FPGA\GoWin\lcd_led\src\Tang_nano_9K_LCD.cst
+-cfg D:\Repository\FPGA\GoWin\lcd_led\impl\pnr\device.cfg
+-sdc D:\Repository\FPGA\GoWin\lcd_led\src\Tang_nano_9K_LCD.sdc
+-bit
+-tr
+-ph
+-timing
+-route_maxfan 23

@@ -1,0 +1,32 @@
+{
+ "Files" : [
+  {
+   "Path" : "D:/Repository/FPGA/GoWin/lcd_led/src/TOP.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Repository/FPGA/GoWin/lcd_led/src/VGAMod.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Repository/FPGA/GoWin/lcd_led/src/gowin_osc/gowin_osc.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Repository/FPGA/GoWin/lcd_led/src/gowin_rpll/gowin_rpll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Repository/FPGA/GoWin/lcd_led/src/sdram_controller_hs/sdram_controller_hs.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/Repository/FPGA/GoWin/lcd_led/impl/temp/rtl_parser.result",
+ "Top" : "TOP",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_93"
+}
